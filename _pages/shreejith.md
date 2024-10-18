@@ -1,0 +1,1 @@
+[Dr Shanker](https://www.linkedin.com/in/shreejithshanker/) is a Principal Investigator of RCSL, and is an Assistant Professor in the Department of Electronic & Electrical Engineering at Trinity College Dublin.
