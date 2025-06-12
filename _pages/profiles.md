@@ -4,31 +4,17 @@ permalink: /Researchers/
 title: RCSL Researchers 
 description:
 nav: true
-nav_order: 2
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: shreejith.jpg
-    content: shreejith.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Assistant Professor, TCD</p>
-      <p>PI of RCSL</p>
-  - align: left
-    image: hareesh.jpeg
-    content: hareesh.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Post-doctoral Researcher</p>
-      <p>RCSL, TCD</p>	  
-  - align: right
     image: shashwat.png
     content: shashwat.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Final Year PhD</p>
+      <p>Defended in May 2025</p>
       <p>RCSL, TCD</p>
   - align: left
     image: eashan.png
@@ -44,7 +30,27 @@ profiles:
     more_info: >
       <p>First Year PhD (joint supervision)</p>
       <p>RCSL, TCD</p>
-
+  - align: left
+    image: Portrait_Placeholder.png
+    content: changhong.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>First Year PhD</p>
+      <p>RCSL, TCD</p>
+  - align: right
+    image: Portrait_Placeholder.png
+    content: aravindg.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>First Year PhD (part-time)</p>
+      <p>RCSL, TCD</p>
+  - align: left
+    image: hareesh.jpeg
+    content: hareesh.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Post-doctoral Researcher</p>
+      <p>RCSL, TCD</p>
   - align: left
     content: masters.md
 ---
