@@ -31,7 +31,7 @@ profiles:
       <p>First Year PhD (joint supervision)</p>
       <p>RCSL, TCD</p>
   - align: left
-    image: Portrait_Placeholder.png
+    image: changhong.png
     content: changhong.md
     image_circular: true # crops the image to make it circular
     more_info: >
