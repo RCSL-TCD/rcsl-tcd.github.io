@@ -24,7 +24,7 @@ profiles:
       <p>Third Year PhD (part-time)</p>
       <p>RCSL, TCD</p>
   - align: right
-    image: Portrait_Placeholder.png
+    image: anneliese.jpg
     content: anneliese.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -38,7 +38,7 @@ profiles:
       <p>First Year PhD</p>
       <p>RCSL, TCD</p>
   - align: right
-    image: Portrait_Placeholder.png
+    image: aravindg.jpg
     content: aravindg.md
     image_circular: true # crops the image to make it circular
     more_info: >
