@@ -43,6 +43,9 @@ EV update for different policy interventions. [SEAI Prog. Obj 4]
 ## Phases
 The project is structured into several phases. Following an initial project setup and coordination phase, the first technical phase focuses on the development of lightweight TinyML-based deep learning models for real-time harmonic detection and prediction, including model co-design, quantisation, pruning, and distributed learning strategies. The second phase concentrates on the design and implementation of an intelligent Energy Management System (EMS) capable of optimally scheduling EV charging and managing interactions among renewable energy sources, energy storage systems, and grid constraints. In the final technical phase, the project undertakes system integration and validation, tightly coupling the TinyML harmonic estimators with the EMS to realise a closed-loop smart control framework, which is experimentally validated using hardware-in-the-loop testing. Communication, dissemination, and exploitation activities run throughout the project lifecycle to ensure impact, stakeholder engagement, and knowledge transfer.
 
+
+Currently, the project researchers are focusing on applying our latest model compression technique to edge ultrafast harmonic estimation models and conducting trials on EV and PV devices.
+
 ![HarmonicAIPhases](/assets/img/HarmonicAIPhase.png)
 
 ## Publications
