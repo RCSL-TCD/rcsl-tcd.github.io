@@ -2,7 +2,10 @@
 layout: page
 title: HARMONIC-AI
 description: Ultra-lightweight AI for Harmonic Management in Electric Grids
-img: assets/img/harmonic-example.png
+# changhong
+# 2025 12 16
+# update logo
+img: assets/img/HarmonicAI.png
 importance: 1
 category: Funded
 related_publications: false

@@ -6,7 +6,11 @@ subtitle:
 
 profile:
   align: right
-  image: logo-binggen.jpeg
+  #image: logo-binggen.jpeg
+  # changhong
+  # 2025 12 16
+  # update rcls logo
+  image: RCSL.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Aras An Phiarsaigh</p>
