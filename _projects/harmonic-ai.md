@@ -20,6 +20,7 @@ related_publications: false
 - 2025/09/16: Kick-off meeting successfully held.
 - 2025/09/01: TUD PhD. student enrolled.
 - 2025/03/31: TCD PhD. student 1 enrolled.
+
 ## Objectives
 Harmonic-AI will
 1. Accelerate the development and deployment in the Irish marketplace of competitive energy-related
@@ -40,6 +41,7 @@ leadership position for coming years. [SEAI Prog. Obj 3]
 learning from supported projects: HARMONIC-AI project proposes to provide an actionable software
 tool to policymakers that includes decision making capability and simulate consumer responses and
 EV update for different policy interventions. [SEAI Prog. Obj 4]
+
 ## Phases
 The project is structured into several phases. Following an initial project setup and coordination phase, the first technical phase focuses on the development of lightweight TinyML-based deep learning models for real-time harmonic detection and prediction, including model co-design, quantisation, pruning, and distributed learning strategies. The second phase concentrates on the design and implementation of an intelligent Energy Management System (EMS) capable of optimally scheduling EV charging and managing interactions among renewable energy sources, energy storage systems, and grid constraints. In the final technical phase, the project undertakes system integration and validation, tightly coupling the TinyML harmonic estimators with the EMS to realise a closed-loop smart control framework, which is experimentally validated using hardware-in-the-loop testing. Communication, dissemination, and exploitation activities run throughout the project lifecycle to ensure impact, stakeholder engagement, and knowledge transfer.
 
