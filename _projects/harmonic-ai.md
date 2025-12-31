@@ -16,10 +16,10 @@ related_publications: false
 ![HarmonicAIDemo](/assets/img/HarmonicAIDemo.png)
 
 ## News
-- 2025/11/05: Paper LogicSparse accepted by ICFPT 2025.
+- 2025/11/05: Paper "LogicSparse" accepted by ICFPT 2025.
 - 2025/09/16: Kick-off meeting successfully held.
 - 2025/09/01: TUD PhD. student enrolled.
-- 2025/03/31: TCD PhD. student 1 enrolled.
+- 2025/03/31: TCD PhD. student enrolled.
 
 ## Objectives
 Harmonic-AI will
