@@ -52,5 +52,12 @@ profiles:
       <p>Post-doctoral Researcher</p>
       <p>RCSL, TCD</p>
   - align: left
+    image: bharath.jpg
+    content: bharath.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Post-doctoral Researcher</p>
+      <p>RCSL, TCD</p> 
+  - align: left
     content: masters.md
 ---
