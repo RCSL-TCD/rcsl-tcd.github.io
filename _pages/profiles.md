@@ -9,13 +9,6 @@ nav_order: 4
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: shashwat.png
-    content: shashwat.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Defended in May 2025</p>
-      <p>RCSL, TCD</p>
   - align: left
     image: eashan.png
     content: eashan.md
