@@ -1,13 +1,17 @@
 
 
 ## Current Masters Research Students ##
+ * Nise O'Cuill, Integrated Masters (MAI)
+ * Eva Chauffour, Integrated Masters (MAI)
+ * Richard Kiernen, MSc Electronic Information Engineering
+
+## Alumni ##
+ * [Dr. Shashwat Khandelwal](https://www.linkedin.com/in/shashwat-khandelwal-835770168/), PhD, first PhD graduate from RCSL, TCD, currently at ARM.
  * Keith Ahern, Integrated Masters (MAI)
  * Rosa Fernandez, Integrated Masters (MAI)
  * Xinlan Lin, MSc Electronic Information Engineering
  * Shih-Han Hu, MSc Electronic Information Engineering
  * Jiazheng Wang, MSc Electronic Information Engineering
-
-## Former Students ##
  * Oscar Toomey, Integrated Masters, starting PhD at ETH, Zurich. 
  * Peter O'Flynn, Integrated Masters, currently at [Optiver](https://optiver.com/), Netherlands.
  * Aparna Ramdoss, MSc Electronic Information Engineering.
