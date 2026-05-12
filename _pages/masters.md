@@ -15,7 +15,7 @@
  * Oscar Toomey, Integrated Masters, starting PhD at ETH, Zurich. 
  * Peter O'Flynn, Integrated Masters, currently at [Optiver](https://optiver.com/), Netherlands.
  * Aparna Ramdoss, MSc Electronic Information Engineering.
- * Changhong Li, MSc Electronic Information Engineering, starting PhD at SETU Waterford, Ireland.
+ * Changhong Li, MSc Electronic Information Engineering.
  * Emmet Murphy, Integrated Masters, currently pursuing PhD at ETH, Zurich. 
  * Cornell Castelino, Integrated Masters, currently at [Analog Devices](https://analog.com), Ireland. 
  * Abhishek Dutta Gupta, MSc Electronic Information Engineering, pursuing PhD at Universidad Carlos III de Madrid (UC3M), Spain. 

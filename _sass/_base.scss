@@ -227,6 +227,75 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.team-directory {
+  margin-top: 0.5rem;
+}
+
+.team-section-title {
+  color: var(--global-divider-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-top: 0.75rem;
+  padding-bottom: 0.35rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.team-pi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.team-pi-card {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1rem;
+  align-items: start;
+  padding: 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.25rem;
+  background-color: var(--global-card-bg-color);
+
+  figure {
+    margin: 0;
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+    font-size: 1.15rem;
+  }
+
+  p {
+    margin-bottom: 0.5rem;
+  }
+}
+
+.team-pi-photo {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.team-role,
+.team-area {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
+.team-area a {
+  color: var(--global-theme-color);
+}
+
+@media (max-width: 575px) {
+  .team-pi-card {
+    grid-template-columns: 1fr;
+  }
+
+  .team-pi-image {
+    max-width: 180px;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
