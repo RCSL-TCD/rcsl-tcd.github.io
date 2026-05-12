@@ -20,7 +20,7 @@ principal_investigators:
     area: VLSI for Custom Chips
     area_url: /vlsi-custom-chips/
     profile_url: /george-floros/
-    image: Portrait_Placeholder.png
+    image: george.png
     summary: >
       Leads the VLSI for Custom Chips research area, spanning EDA, VLSI design techniques, semiconductor device modelling, circuit simulation, IC thermal analysis, and long-term reliability for modern programmable systems.
 
