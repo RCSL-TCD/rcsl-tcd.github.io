@@ -16,7 +16,9 @@ related_publications: false
 ![HarmonicAIDemo](/assets/img/HarmonicAIDemo.png)
 
 ## News
-- 2025/05/01: TCD Post-doctoral fellow enrolled.
+- 2026/06/18: Paper "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging" accepted for presentation at RTSI 2026.
+- 2026/06/01: Paper "RQP: Resource-Oriented Quantiser Pruning for Neural Networks on FPGAs" accepted for presentation at FPL 2026. 
+- 2026/05/01: TCD Post-doctoral fellow enrolled.
 - 2025/11/05: Paper "LogicSparse" accepted by ICFPT 2025.
 - 2025/09/16: Kick-off meeting successfully held.
 - 2025/09/01: TUD PhD. student enrolled.
