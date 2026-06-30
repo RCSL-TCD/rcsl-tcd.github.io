@@ -32,7 +32,7 @@ In this project, RCSL was primarily responsible for the development of WP3 and W
 ## Phases
 ![Emerald_WP](/assets/img/Emerald_WP.png)
 ## Publications
-[Vibhoothi, Vibhoothi, et al. "An Empirical Study of Reducing AV1 Decoder Complexity and Energy Consumption via Encoder Parameter Tuning." arXiv preprint arXiv:2510.12380 (2025).](https://arxiv.org/abs/2510.12380)
+[Vibhoothi, Vibhoothi, et al. "An Empirical Study of Reducing AV1 Decoder Complexity and Energy Consumption via Encoder Parameter Tuning." Proceedings of Picture Coding Symposium, 2025.](https://arxiv.org/abs/2510.12380)
 
 [Hareesh Veekanchery, et al. "Towards Energy Monitoring in Visual Processing Pipelines." Proceedings of the SMPTE Media Technology Summit. 2025.](https://rcsl-tcd.github.io/assets/pdf/Hareesh2025MTS.pdf)
 
