@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper Updates!
-date: 2026-06-30 23:59:00-0400
+date: 2026-06-29 23:59:00-0400
 inline: false
 related_posts: false
 ---
