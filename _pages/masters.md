@@ -17,15 +17,15 @@
  * Aparna Ramdoss, MSc Electronic Information Engineering.
  * Changhong Li, MSc Electronic Information Engineering, currently pursuing PhD in our lab.
  * Emmet Murphy, Integrated Masters, currently pursuing PhD at ETH, Zurich. 
- * Cornell Castelino, Integrated Masters, currently at [Analog Devices](https://analog.com), Ireland. 
+ * Cornell Castelino, Integrated Masters, currently at Analog Devices, Ireland. 
  * Abhishek Dutta Gupta, MSc Electronic Information Engineering, pursuing PhD at Universidad Carlos III de Madrid (UC3M), Spain. 
- * Atul Redekar, MSc Electronic Information Engineering, currently at [BD](https://www.bd.com/en-uk), Limerick, Irelad.
- * Daniel Flood, Integrated Masters, currently with [Geneva Trading](httpw://genevatrading.com), Dublin, Ireland. 
+ * Atul Redekar, MSc Electronic Information Engineering, currently at [BD](https://www.bd.com/en-uk), Limerick, Ireland.
+ * Daniel Flood, Integrated Masters, currently with [Geneva Trading](https://genevatrading.com), Dublin, Ireland. 
  * Jason Boyle, Integrated Masters, currently at [Microchip](https://microchip.com), Dublin, Ireland.
  * Nasir Said, Integrated Masters, currently at [Virtu Financial](https://virtu.com), Ireland. 
  * Aravind Raj, MSc Electronic Information Engineering, currently at [Synopsys](https://synopsys.com), Dublin.
  * Donal Lyons, Integrated Masters, currently at [SIG](https://sig.com), Dublin, Ireland 
- * Conor McNally Integrated Masters, currently at [AMD](https://amd.com), Dublin, Ireland. 
+ * Conor McNally, Integrated Masters, currently at AMD, Dublin, Ireland. 
  * Eashan Wadhwa, Integrated Masters, currently at [Intel](https://intel.com), Ireland. 
  * Cian Wallnutt, Integrated Masters, currently at Coca-Cola, Ireland. 
  * Anushree Sawant, MSc Electronic Information Engineering, currently at [Intel](https://intel.com), Ireland. 
