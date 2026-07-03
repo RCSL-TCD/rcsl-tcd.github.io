@@ -50,28 +50,28 @@ profile_groups:
         content: eashan.md
         image_circular: true # crops the image to make it circular
         more_info: >
-          <p>Third Year PhD (part-time)</p>
+          <p>Fourth Year PhD (part-time)</p>
           <p>RCSL, TCD</p>
       - align: right
         image: anneliese.jpg
         content: anneliese.md
         image_circular: true # crops the image to make it circular
         more_info: >
-          <p>First Year PhD (joint supervision)</p>
+          <p>Second Year PhD (joint supervision)</p>
           <p>RCSL, TCD</p>
       - align: left
         image: changhong.png
         content: changhong.md
         image_circular: true # crops the image to make it circular
         more_info: >
-          <p>First Year PhD</p>
+          <p>Second Year PhD</p>
           <p>RCSL, TCD</p>
       - align: right
         image: aravindg.jpg
         content: aravindg.md
         image_circular: true # crops the image to make it circular
         more_info: >
-          <p>First Year PhD (part-time)</p>
+          <p>Second Year PhD (part-time)</p>
           <p>RCSL, TCD</p>
   - title: Masters Research Students and Alumni
     profiles:

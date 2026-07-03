@@ -1,20 +1,40 @@
 ---
 layout: page
-title: Research
+title: Application and CAD for Reconfigurable Accelerators and Adaptive Systems
 permalink: /research/
-description: 
+description: Computer architectures, CAD flows, and adaptive acceleration frameworks for programmable and reconfigurable systems
 nav: false
-nav_order: 2
-display_categories: [Research Team, Projects]
-horizontal: false
 ---
 
-RCSL works across two complementary layers of computing systems research.
+## Overview
+Application and CAD for Reconfigurable Accelerators and Adaptive Systems is an RCSL research track led by [Dr. Shreejith Shanker](/shreejith-shanker/). The track focuses on computer architectures, CAD flows, and distributed acceleration frameworks that improve compute efficiency, network performance, and runtime adaptability through close hardware-software interaction.
 
-## Application and CAD for Reconfigurable Accelerators and Adaptive Systems
-Led by [Dr. Shreejith Shanker](/shreejith-shanker/), this research area focuses on computer architectures, CAD flows, and distributed acceleration frameworks that improve compute efficiency, network performance, and runtime adaptability through close hardware-software interaction. Fully programmable and reconfigurable platforms are a key enabler, allowing both applications and their underlying hardware to be adapted at design time or runtime.
+Fully programmable and reconfigurable platforms are a key enabler in this work, allowing both applications and their underlying hardware to be adapted at design time or runtime. Our goal is to connect application requirements, compiler and CAD methods, and accelerator architecture design so that future programmable systems can be more efficient, adaptive, and easier to deploy across technology domains.
 
-Current work explores sustainable, adaptable, and energy-efficient accelerators for lightweight deep learning, media and video processing, communication networks, autonomous systems, and smart energy infrastructure. We investigate integration approaches, algorithmic and compiler optimisations, and design space exploration schemes for co-designing applications with their accelerators.
+## Research Themes
+- Reconfigurable computer architectures and accelerator fabrics
+- CAD flows, compilation, and mapping strategies for programmable hardware
+- Hardware-software co-design for application-specific accelerators
+- Design space exploration and optimisation for performance, energy, and resource efficiency
+- Lightweight and quantised deep learning for embedded and edge platforms
+- Distributed and network-coupled acceleration frameworks
+- Runtime adaptability for dynamic, resource-constrained, and safety-critical systems
 
-## VLSI for Custom Chips
-Led by [Dr. George Floros](/george-floros/), the [VLSI for Custom Chips](/vlsi-custom-chips/) research area focuses on EDA, VLSI design techniques, semiconductor device modelling, circuit simulation, IC thermal analysis, and long-term reliability for modern custom and programmable chips. The area connects device-aware modelling and circuit-level analysis with machine learning methods for optimising future VLSI systems.
+## Application Domains
+- Lightweight deep learning and AI inference on embedded platforms
+- Media, image, and video processing accelerators
+- Communication and network-oriented computing systems
+- Autonomous and safety-critical embedded platforms
+- Smart energy, EV charging, and grid-aware optimisation infrastructure
+- Distributed sensing and collaborative optimisation systems
+
+## Representative Projects
+- [EMERALD](/projects/emerald/): sustainable media workflows with energy-aware profiling and accelerator integration for post-production pipelines
+- [HARMONIC-AI](/projects/harmonic-ai/): ultra-lightweight AI and optimisation for harmonic management in EV charging and grid-tied energy systems
+- [Light-weight AI acceleration](/projects/ids/): quantised deep-learning acceleration for line-rate intrusion detection in in-vehicle networks
+- [Speculation in FPGA CAD](/projects/speculation/): speculative optimisation techniques for improving FPGA CAD flows
+- [Quantised LSTMs](/projects/qlstm/): compilation and backend support for quantised recurrent models on FPGA platforms
+- [DISCLOSE](/projects/disclose/): distributed optimisation frameworks for privacy-preserving smart energy management
+
+## Lead Investigator
+[Dr. Shreejith Shanker](/shreejith-shanker/) is an Assistant Professor in the Department of Electronic & Electrical Engineering at Trinity College Dublin and serves as the Principal Investigator of RCSL. He leads this research area within the lab, with work spanning reconfigurable architectures, distributed accelerators, and adaptive computing systems for communication, media, autonomous, and smart energy applications.

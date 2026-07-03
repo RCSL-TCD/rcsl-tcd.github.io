@@ -6,16 +6,16 @@
  * Richard Kiernen, MSc Electronic Information Engineering
 
 ## Alumni ##
- * [Dr. Shashwat Khandelwal](https://www.linkedin.com/in/shashwat-khandelwal-835770168/), PhD, first PhD graduate from RCSL, TCD, currently at ARM.
- * Keith Ahern, Integrated Masters (MAI)
- * Rosa Fernandez, Integrated Masters (MAI)
- * Xinlan Lin, MSc Electronic Information Engineering
- * Shih-Han Hu, MSc Electronic Information Engineering
- * Jiazheng Wang, MSc Electronic Information Engineering
+ * [Dr. Shashwat Khandelwal](https://www.linkedin.com/in/shashwat-khandelwal-835770168/), PhD, first PhD graduate from RCSL, TCD, currently at [ARM](https://www.arm.com/), UK.
+ * Keith Ahern, Integrated Masters (MAI), currently at [Intel](https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html).
+ * Rosa Fernandez, Integrated Masters (MAI), currently at [Susquehanna](https://sig.com/), Ireland.
+ * Xinlan Lin, MSc Electronic Information Engineering, currently at [Huawei](https://www.huawei.com/ie/), Ireland.
+ * Shih-Han Hu, MSc Electronic Information Engineering.
+ * Jiazheng Wang, MSc Electronic Information Engineering, currently at [SAJ](https://www.saj-electric.com/), Ireland.
  * Oscar Toomey, Integrated Masters, starting PhD at ETH, Zurich. 
  * Peter O'Flynn, Integrated Masters, currently at [Optiver](https://optiver.com/), Netherlands.
  * Aparna Ramdoss, MSc Electronic Information Engineering.
- * Changhong Li, MSc Electronic Information Engineering.
+ * Changhong Li, MSc Electronic Information Engineering, currently pursuing PhD in our lab.
  * Emmet Murphy, Integrated Masters, currently pursuing PhD at ETH, Zurich. 
  * Cornell Castelino, Integrated Masters, currently at [Analog Devices](https://analog.com), Ireland. 
  * Abhishek Dutta Gupta, MSc Electronic Information Engineering, pursuing PhD at Universidad Carlos III de Madrid (UC3M), Spain. 

@@ -54,7 +54,16 @@ Currently, the project researchers are focusing on applying our latest model com
 ![HarmonicAIPhases](/assets/img/HarmonicAIPhase.png)
 
 ## Publications
+[Li, Changhong, Biswajit Basu, and Shreejith Shanker. "RQP: Resource-Oriented Quantiser Pruning for Neural Networks on FPGAs." arXiv preprint arXiv:2511.03079 (2025).](https://arxiv.org/abs/2606.30382)
+
+
+[Li, Changhong, Bharathkumar Hegde, Biswajit Basu, and Shreejith Shanker. "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging." arXiv preprint arXiv:2511.03079 (2025).](https://arxiv.org/abs/2606.30397)
+
+
 [Li, Changhong, Biswajit Basu, and Shreejith Shanker. "LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators." arXiv preprint arXiv:2511.03079 (2025).](https://arxiv.org/abs/2511.03079)
+
+
+
 
 ## Members
 ![TCD](/assets/img/TCD.png) ![TUD](/assets/img/TUD.png) ![ESB](/assets/img/ESB.jpg)
