@@ -7,7 +7,7 @@
 
 ## Alumni ##
  * [Dr. Shashwat Khandelwal](https://www.linkedin.com/in/shashwat-khandelwal-835770168/), PhD, first PhD graduate from RCSL, TCD, currently at [ARM](https://www.arm.com/), UK.
- * Keith Ahern, Integrated Masters (MAI), currently at [Intel](https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html).
+ * Keith Ahern, Integrated Masters (MAI), currently at [Intel](https://www.intel.ie/content/www/ie/en/company-overview/intel-in-ireland.html), Ireland.
  * Rosa Fernandez, Integrated Masters (MAI), currently at [Susquehanna](https://sig.com/), Ireland.
  * Xinlan Lin, MSc Electronic Information Engineering, currently at [Huawei](https://www.huawei.com/ie/), Ireland.
  * Shih-Han Hu, MSc Electronic Information Engineering.
