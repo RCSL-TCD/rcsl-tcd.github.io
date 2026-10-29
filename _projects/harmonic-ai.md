@@ -16,6 +16,7 @@ related_publications: false
 ![HarmonicAIDemo](/assets/img/HarmonicAIDemo.png)
 
 ## News
+- 2026/09/14: Paper "EBL: Efficient Broad Learning for Distributed Adaptive Harmonic Analysis" accepted for presentation at ICECS 2026.
 - 2026/06/18: Paper "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging" accepted for presentation at RTSI 2026.
 - 2026/06/01: Paper "RQP: Resource-Oriented Quantiser Pruning for Neural Networks on FPGAs" accepted for presentation at FPL 2026. 
 - 2026/05/01: TCD Post-doctoral fellow enrolled.
@@ -54,13 +55,16 @@ Currently, the project researchers are focusing on applying our latest model com
 ![HarmonicAIPhases](/assets/img/HarmonicAIPhase.png)
 
 ## Publications
-[Li, Changhong, Biswajit Basu, and Shreejith Shanker. "RQP: Resource-Oriented Quantiser Pruning for Neural Networks on FPGAs." arXiv preprint arXiv:2511.03079 (2025).](https://arxiv.org/abs/2606.30382)
+[Li, Changhong, Georgios Floros, Biswajit Basu, and Shreejith Shanker. "EBL: Efficient Broad Learning for Distributed Adaptive Harmonic Analysis." IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2026 (to appear).](https://arxiv.org/abs/2609.16358)
 
 
-[Li, Changhong, Bharathkumar Hegde, Biswajit Basu, and Shreejith Shanker. "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging." arXiv preprint arXiv:2511.03079 (2025).](https://arxiv.org/abs/2606.30397)
+[Li, Changhong, Biswajit Basu, and Shreejith Shanker. "RQP: Resource-Oriented Quantiser Pruning for Neural Networks on FPGAs." International Conference on Field-Programmable Logic and Applications (FPL), 2026.](https://doi.org/10.23919/FPLCPS00026.2026.00052)
 
 
-[Li, Changhong, Biswajit Basu, and Shreejith Shanker. "LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators." arXiv preprint arXiv:2511.03079 (2025).](https://arxiv.org/abs/2511.03079)
+[Li, Changhong, Bharathkumar Hegde, Biswajit Basu, and Shreejith Shanker. "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging." IEEE International Forum on Research and Technologies for Society and Industry Innovation (RTSI), 2026.](https://arxiv.org/abs/2606.30397)
+
+
+[Li, Changhong, Biswajit Basu, and Shreejith Shanker. "LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators." International Conference on Field-Programmable Technology (ICFPT), 2025.](https://doi.org/10.1109/ICFPT67023.2025.00040)
 
 
 

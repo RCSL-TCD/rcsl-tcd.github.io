@@ -14,3 +14,9 @@ The project explores the case for line rate intrusion detection using deep learn
 -- Tight integration into the Network controller's  datapath without affecting protocol functionality or incurring additional latency in message movement
 
 The project is supported by the Department of EEE through a PhD scholarship.
+
+## News
+- 2026/10/10: Paper "Deep Defence on Wheels: A Dual Intrusion Detection System Architecture for Comprehensive In-Vehicle Network Security" published in ACM Transactions on Embedded Computing Systems (TECS).
+
+## Publications
+[Khandelwal, Shashwat, and Shreejith Shanker. "Deep Defence on Wheels: A Dual Intrusion Detection System Architecture for Comprehensive In-Vehicle Network Security." ACM Transactions on Embedded Computing Systems, 2026.](https://doi.org/10.1145/3858340)

@@ -73,6 +73,13 @@ profile_groups:
         more_info: >
           <p>Second Year PhD (part-time)</p>
           <p>RCSL, TCD</p>
+      - align: left
+        image: Portrait_Placeholder.png
+        content: jiaao.md
+        image_circular: true # crops the image to make it circular
+        more_info: >
+          <p>PhD Student</p>
+          <p>RCSL, TCD</p>
   - title: Masters Research Students and Alumni
     profiles:
       - content: masters.md
