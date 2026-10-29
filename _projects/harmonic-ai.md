@@ -20,6 +20,7 @@ related_publications: false
 - 2026/06/18: Paper "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging" accepted for presentation at RTSI 2026.
 - 2026/06/01: Paper "RQP: Resource-Oriented Quantiser Pruning for Neural Networks on FPGAs" accepted for presentation at FPL 2026. 
 - 2026/05/01: TCD Post-doctoral fellow enrolled.
+- 2026/04/14: Paper "Unified Harmonic Modeling Framework and Comparative Assessment of Harmonic Power Flow Formulations for Distribution Systems with LCCs" presented at PEMD 2026.
 - 2025/11/05: Paper "LogicSparse" accepted by ICFPT 2025.
 - 2025/09/16: Kick-off meeting successfully held.
 - 2025/09/01: TUD PhD. student enrolled.
@@ -62,6 +63,9 @@ Currently, the project researchers are focusing on applying our latest model com
 
 
 [Li, Changhong, Bharathkumar Hegde, Biswajit Basu, and Shreejith Shanker. "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging." IEEE International Forum on Research and Technologies for Society and Industry Innovation (RTSI), 2026.](https://arxiv.org/abs/2606.30397)
+
+
+[Foqha, Tareq, Arash Beiranvand, and Malabika Basu. "Unified Harmonic Modeling Framework and Comparative Assessment of Harmonic Power Flow Formulations for Distribution Systems with LCCs." IET International Conference on Power Electronics, Machines and Drives (PEMD), 2026.](https://doi.org/10.1049/icp.2026.2219)
 
 
 [Li, Changhong, Biswajit Basu, and Shreejith Shanker. "LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators." International Conference on Field-Programmable Technology (ICFPT), 2025.](https://doi.org/10.1109/ICFPT67023.2025.00040)
