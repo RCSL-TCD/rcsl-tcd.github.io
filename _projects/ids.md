@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Light-weight AI acceleration
+title: Efficient AI-driven Vehicular IDS
 description: Dataflow deep learning accelerators at mixed (reduced) precision for in-network line rate intrusion detection
 img: assets/img/QMLP.png
 importance: 1
