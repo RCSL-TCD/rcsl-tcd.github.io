@@ -35,7 +35,8 @@ DISCLOSE develops a distributed consensus model for home energy management, movi
 The framework is designed to remain responsive to human interactions and manual overrides, allowing automated schedules to adapt when residents change device usage. By using the existing computational capabilities of modern devices over standard wireless interfaces, DISCLOSE enables granular demand-side management without expensive hardware retrofits or reliance on subscription-based cloud analytics.
 
 ## Members
-![TCD](/assets/img/TCD.png) ![EURAC](/assets/img/eurac_logo.jpg)
+<img src="TCD.png" width="200" height="100"> <img src="eurac_logo.png" width="200" height="100">
+
 
 
 ## Acknowledgments
