@@ -7,7 +7,7 @@ category: Development
 related_publications: shashwat2025fpl
 ---
 
-This project is a development in collaboration with the RAD research team at AMD, Dublin, to develop a generalisable backend and compilation flow to support quantised LSTM layers and their mapping through the [FINN](https://xilinx.github.io/finn/) framework. The details of the flow and optimisations will be presented at the Field Programmable Logic and Applications Conference (FPL) 2025. Preprints to follow.  
+This project is a development in collaboration with the RAD research team at AMD, Dublin, to develop a generalisable backend and compilation flow to support quantised LSTM layers and their mapping through the [FINN](https://xilinx.github.io/finn/) framework. The details of the flow and optimisations will be presented at the Field Programmable Logic and Applications Conference (FPL) 2025. Preprint can be seen in the publications page.  
 
 ## related publications
 <div class="publications">
