@@ -2,6 +2,9 @@
 layout: page
 title: DISCLOSE
 description: Distributed Sensing and Collaborative Optimisation for Smart Energy-efficient Buildings
+#SS 2026 11 16
+# update logo
+img: assets/img/DISCLOSE.png
 importance: 1
 category: Funded
 related_publications: false
