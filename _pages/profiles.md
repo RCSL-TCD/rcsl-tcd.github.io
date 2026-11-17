@@ -74,7 +74,7 @@ profile_groups:
           <p>Second Year PhD (part-time)</p>
           <p>RCSL, TCD</p>
       - align: left
-        image: jiaao.png
+        image: jiaao.jpg
         content: jiaao.md
         image_circular: true # crops the image to make it circular
         more_info: >
