@@ -15,7 +15,11 @@ This project explores the use of Speculation as an optimisation flow to improve 
 - 2024/06: Paper "Simopt - Simulation pass for Speculative Optimisation of FPGA-CAD flow" published at COINS 2024.
 
 ## Publications
-{% bibliography -f papers -q @*[key=Wadhwa2026smacd]* %}{% bibliography -f papers -q @*[key=Wadhwa2025norcas]* %}{% bibliography -f papers -q @*[key=wadhwa2024simopt]* %}
+<div class="publications">
+  {% bibliography -f papers -q @*[key=Wadhwa2026smacd]* %}
+  {% bibliography -f papers -q @*[key=Wadhwa2025norcas]* %}
+  {% bibliography -f papers -q @*[key=wadhwa2024simopt]* %}
+</div>
 
 <!-- [Wadhwa, Eashan, George Floros, and Shreejith Shanker. "Context-aware Simopt-Power: Using structural data with simulation metadata to optimise FPGA designs." International Conference on Synthesis, Modeling, Analysis and Simulation Methods and Applications to Circuit Design (SMACD), 2026.](https://doi.org/10.1109/SMACD70206.2026.11647760)
 
