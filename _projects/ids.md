@@ -20,4 +20,14 @@ The project is supported by the Department of EEE through a PhD scholarship.
 
 ## Publications
 <!-- [Khandelwal, Shashwat, and Shreejith Shanker. "Deep Defence on Wheels: A Dual Intrusion Detection System Architecture for Comprehensive In-Vehicle Network Security." ACM Transactions on Embedded Computing Systems, 2026.](https://doi.org/10.1145/3858340) -->
-{% bibliography -f papers -q @*[key=Khandelwal2026tecs]* %}{% bibliography -f papers -q @*[key=shashwat2025fpl]* %}{% bibliography -f papers -q @*[key=shashwat2025esl]* %}{% bibliography -f papers -q @*[key=khandelwal2023exploring]* %}{% bibliography -f papers -q @*[key=khandelwal2023real]* %}{% bibliography -f papers -q @*[key=khandelwal2023quantised]* %}{% bibliography -f papers -q @*[key=khandelwal2022Alightweight]* %}{% bibliography -f papers -q @*[key=khandelwal2022lightweight]* %}{% bibliography -f papers -q @*[key=khandelwal2022deep]* %}
+<div class="publications">
+  {% bibliography -f papers -q @*[key=Khandelwal2026tecs]* %}
+  {% bibliography -f papers -q @*[key=shashwat2025fpl]* %}
+  {% bibliography -f papers -q @*[key=shashwat2025esl]* %}
+  {% bibliography -f papers -q @*[key=khandelwal2023exploring]* %}
+  {% bibliography -f papers -q @*[key=khandelwal2023real]* %}
+  {% bibliography -f papers -q @*[key=khandelwal2023quantised]* %}
+  {% bibliography -f papers -q @*[key=khandelwal2022Alightweight]* %}
+  {% bibliography -f papers -q @*[key=khandelwal2022lightweight]* %}
+  {% bibliography -f papers -q @*[key=khandelwal2022deep]* %}
+</div>
